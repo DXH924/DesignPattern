@@ -5,3 +5,4 @@
 ## 第四章 Factory模式
 ## 第五章 Singleton模式
 ## 第六章 Prototype模式
+## 第七章 Builder模式
