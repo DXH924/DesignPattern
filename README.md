@@ -7,3 +7,4 @@
 ## 第六章 Prototype模式
 ## 第七章 Builder模式
 ## 第八章 Abstract Factory模式
+## 第九章 Bridge模式
