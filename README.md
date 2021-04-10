@@ -8,3 +8,4 @@
 ## 第七章 Builder模式
 ## 第八章 Abstract Factory模式
 ## 第九章 Bridge模式
+## 第十章 Strategy模式
