@@ -9,3 +9,4 @@
 ## 第八章 Abstract Factory模式
 ## 第九章 Bridge模式
 ## 第十章 Strategy模式
+## 第十一章 Composite模式
