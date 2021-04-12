@@ -11,3 +11,4 @@
 ## 第十章 Strategy模式
 ## 第十一章 Composite模式
 ## 第十二章 Decorator模式
+## 第十三章 Visitor模式
