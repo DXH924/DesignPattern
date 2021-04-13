@@ -12,3 +12,5 @@
 ## 第十一章 Composite模式
 ## 第十二章 Decorator模式
 ## 第十三章 Visitor模式
+## 第十四章 Chain of Responsebility模式
+## 第十五章 Facade模式
