@@ -14,3 +14,4 @@
 ## 第十三章 Visitor模式
 ## 第十四章 Chain of Responsebility模式
 ## 第十五章 Facade模式
+## 第十六章 Mediator模式
