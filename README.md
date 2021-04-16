@@ -15,3 +15,5 @@
 ## 第十四章 Chain of Responsebility模式
 ## 第十五章 Facade模式
 ## 第十六章 Mediator模式
+## 第十七章 Observer模式
+## 第十八章 Memento模式
